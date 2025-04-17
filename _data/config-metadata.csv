@@ -13,3 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+depiction,Depiction
+season,Season
+colors,Colors
