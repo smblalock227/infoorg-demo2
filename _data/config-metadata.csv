@@ -4,6 +4,10 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+depiction,Depiction
+season,Season
+colors,Colors
+item_information,Information
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -13,7 +17,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-depiction,Depiction
-season,Season
-colors,Colors
-item_information,Information
