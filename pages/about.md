@@ -16,7 +16,7 @@ credits: true
 
 This is a collection of photos meant to serve as a demo collection for SLIS Information Organization Classes. The metadata is largely made up for demostration, testing, and layout / appearance purposes. 
 
-{% include feature/card.html text="Some text" header="Example item" objectid="photo004" %}
+{% include feature/card.html text="This is a photo of spiderwebs near the Iowa River." header="Example item" objectid="photo004" %}
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
