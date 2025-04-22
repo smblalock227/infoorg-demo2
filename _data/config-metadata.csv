@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 transcription,Transcription
+ingredients,Ingredients
 depiction,Depiction
 season,Season
 colors,Colors,
@@ -18,4 +19,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-ingredients,Ingredients
