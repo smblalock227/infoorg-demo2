@@ -4,6 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+tester,Ingredients,true
 transcription,Transcription
 ingredients,Ingredients
 depiction,Depiction
