@@ -4,7 +4,7 @@ creator,Creator,
 contributor, Contributor,
 date,Date Created,
 description,Description,
-subject,Subjects,true
+subject,Subjects,true,,DCTERMS.subject,keywords
 transcription,Transcription
 ingredients,Ingredients
 depiction,Depiction
