@@ -8,7 +8,7 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 transcription,Transcription
 ingredients,Ingredients
 depiction,Depiction
-season,Season
+season,Season,true,,,keywords
 colors,Colors,
 item_information,Information
 location,Location
