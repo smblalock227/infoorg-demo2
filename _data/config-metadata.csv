@@ -16,7 +16,7 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
+type,Type,true,,DCTERMS.type,keywords
 format,Format,
 filename,Filename
 rights,Rights,
