@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-contributor, Contributor,true,,DCTERMS.contributor,keywords
+contributor, Contributor,
 date,Date Created,
 description,Description,
 subject,Subjects,true,,DCTERMS.subject,keywords
