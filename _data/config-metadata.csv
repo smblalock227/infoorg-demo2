@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-contributor, Contributor,
+contributor, Contributor,true,,DCTERMS.contributor,keywords
 date,Date Created,
 description,Description,
 subject,Subjects,true,,DCTERMS.subject,keywords
 transcription,Transcription
-ingredients,Ingredients,true,,DCTERMS.subject,keywords
+ingredients,Ingredients,
 depiction,Depiction
 season,Season
 colors,Colors,
