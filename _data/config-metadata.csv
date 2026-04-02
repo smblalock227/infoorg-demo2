@@ -6,7 +6,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true,,DCTERMS.subject,keywords
 transcription,Transcription
-ingredients,Ingredients
+ingredients,Ingredients,true,,DCTERMS.subject,keywords
 depiction,Depiction
 season,Season
 colors,Colors,
